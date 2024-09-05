@@ -1,0 +1,17 @@
+@COPYRIGHT
+
+====================================
+Algorithm	Key
+------------------------------------
+NSGA-II 	NSGAII
+MOEA/D 	 	MOEAD
+NSGA-III 	NSGA3, NSGAIII
+TWO-ARCH2 	TWOARCH2
+IBEA 		IBEA
+Theta-DEA 	THETADEA
+DLS-MOEA 	DLSMOEA
+SMS-EMOA 	SMSEMOA
+SPCEA     	SPCEA   
+MOEATSS		MOEATSS
+====================================
+
